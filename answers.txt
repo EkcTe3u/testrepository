@@ -1,3 +1,4 @@
+общая теория - https://habr.com/ru/post/549054/
 формат json - https://habr.com/ru/post/554274/
 
 XML — используется в SOAP (всегда) и REST-запросах (реже);
