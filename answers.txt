@@ -1,3 +1,4 @@
+https://ru.hexlet.io/blog/posts/kak-proyti-sobesedovanie-na-testirovschika-vse-etapy-i-voprosy
 общая теория - https://habr.com/ru/post/549054/
 формат json - https://habr.com/ru/post/554274/
 
