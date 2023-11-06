@@ -120,3 +120,4 @@ ERROR — логирование всех ошибок.
  «,» (запятую) для разделения пары и «:»(двоеточие) для отделения имени от значения.
 
 теория со ссылками на видео и статьи https://www.tinkoff.ru/career/it/interview/qa/fullstack/
+доп вопросы https://telegra.ph/Opytnye-voprosy-na-sobesedovanii-10-21
